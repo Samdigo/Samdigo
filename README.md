@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Samuel Attaochu  
 
-<!--
-**Samdigo/Samdigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+- 💻 Experienced in **Python, SQL, and Power BI**  
+- ⚡ Skilled in **AI prompt engineering & content creation**  
+- 🧪 8+ years in **global clinical trial operations** (Phases I–IV)  
+- 📊 Passionate about **data analytics & AI-driven solutions**  
+- 🎥 Creator of **AI-generated films** & **biblical storytelling projects**  
+- 🌍 Exploring **African politics, governance & development**  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack  
+- **Languages:** Python, SQL, JavaScript  
+- **Data Tools:** Power BI, Pandas, NumPy  
+- **AI/ML:** Prompt Engineering, NADN Agents, Generative AI  
+- **Web Dev:** Django, HTML/CSS  
+- **Other:** Git, GitHub, Jupyter  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Current Projects  
+- 🎬 Bringing the **Bible to life with AI**  
+- 🧑‍🔬 Improving **clinical trial workflows** with automation  
+- 📊 Exploring **AI in African development & governance**  
+
+
+
+---
+⭐️ *“Building with faith, data, and AI.”*  
